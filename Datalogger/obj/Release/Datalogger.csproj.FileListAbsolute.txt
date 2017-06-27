@@ -1,0 +1,13 @@
+C:\Users\RabIraj\Documents\Visual Studio 2012\Projects\Datalogger\Datalogger\bin\Release\Datalogger.exe.config
+C:\Users\RabIraj\Documents\Visual Studio 2012\Projects\Datalogger\Datalogger\bin\Release\Datalogger.exe
+C:\Users\RabIraj\Documents\Visual Studio 2012\Projects\Datalogger\Datalogger\bin\Release\Datalogger.pdb
+C:\Users\RabIraj\Documents\Visual Studio 2012\Projects\Datalogger\Datalogger\obj\Release\Datalogger.csprojResolveAssemblyReference.cache
+C:\Users\RabIraj\Documents\Visual Studio 2012\Projects\Datalogger\Datalogger\obj\Release\Datalogger.reportshow.resources
+C:\Users\RabIraj\Documents\Visual Studio 2012\Projects\Datalogger\Datalogger\obj\Release\Datalogger.menu.resources
+C:\Users\RabIraj\Documents\Visual Studio 2012\Projects\Datalogger\Datalogger\obj\Release\Datalogger.second_layout.resources
+C:\Users\RabIraj\Documents\Visual Studio 2012\Projects\Datalogger\Datalogger\obj\Release\Datalogger.Properties.Resources.resources
+C:\Users\RabIraj\Documents\Visual Studio 2012\Projects\Datalogger\Datalogger\obj\Release\Datalogger.csproj.GenerateResource.Cache
+C:\Users\RabIraj\Documents\Visual Studio 2012\Projects\Datalogger\Datalogger\obj\Release\Datalogger.exe
+C:\Users\RabIraj\Documents\Visual Studio 2012\Projects\Datalogger\Datalogger\obj\Release\Datalogger.pdb
+C:\Users\RabIraj\Documents\Visual Studio 2012\Projects\Datalogger\Datalogger\obj\Release\Datalogger.AboutUs.resources
+C:\Users\RabIraj\Documents\Visual Studio 2012\Projects\Datalogger\Datalogger\bin\Release\record.sdf
